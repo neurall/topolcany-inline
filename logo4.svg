@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg width="100%" viewBox="0 0 310 150"
+<svg
+   width="100%"
+   viewBox="0 0 310 158"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -22,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.88918678"
-     inkscape:cx="80.972864"
+     inkscape:cx="82.097487"
      inkscape:cy="-168.69347"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
@@ -47,7 +49,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0595447,0,0,1,-7.7303371,-27.668632)" /></defs><g
      id="layer1"
-     transform="matrix(1.7918223,0,0,1.4146713,-3.6665187,1.269856)"><path
+     transform="matrix(1.4999091,0,0,1.4890995,-3.9732341,-6.5764383)"><path
        id="rect554"
        style="fill:url(#linearGradient9270);fill-opacity:1;stroke-width:0.272775;stroke-dasharray:none"
        d="M -1.0507078,-0.35023608 H 210.4709 L 210.842,55.337272 -1.0507078,105.421 Z"
